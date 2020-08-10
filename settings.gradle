@@ -1,0 +1,3 @@
+include ':app-manager'
+include ':app'
+rootProject.name = "DQApplicationManager"
